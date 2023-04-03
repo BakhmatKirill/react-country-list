@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-country-list/static/css/main.c2cab247.css",
+    "main.js": "/react-country-list/static/js/main.c3f8a35d.js",
+    "index.html": "/react-country-list/index.html",
+    "main.c2cab247.css.map": "/react-country-list/static/css/main.c2cab247.css.map",
+    "main.c3f8a35d.js.map": "/react-country-list/static/js/main.c3f8a35d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.c3f8a35d.js"
+  ]
+}
