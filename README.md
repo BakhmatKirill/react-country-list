@@ -1,4 +1,4 @@
-# React-zomentum
+# App React-country-list
 
 Project requirements:
 
