@@ -7,4 +7,4 @@ Project requirements:
 - Use of SСSS
 - Use of BEM methodology.
 
-[Website](BakhmatKirill.github.io/react-country-list/)
+[Website](https://bakhmatkirill.github.io/react-country-list/)
