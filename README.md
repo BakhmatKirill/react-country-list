@@ -6,3 +6,5 @@ Project requirements:
 - Support for mobile devices
 - Use of SСSS
 - Use of BEM methodology.
+
+[Website](BakhmatKirill.github.io/react-country-list/)
